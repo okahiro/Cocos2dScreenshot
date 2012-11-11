@@ -1,0 +1,8 @@
+h1. cocos2dでスクリーンショットを撮るサンプル
+
+こちらをだいぶ参考にさせていただきました。
+http://www.cocos2d-iphone.org/forum/topic/1722
+https://github.com/pedrohub/CCNode-Screenshot
+
+cocos2d 2.0で動作します。1.0で使用する場合は、多少の変更が必要です。
+
